@@ -8,6 +8,10 @@ A simple command-line flashcard system built with Python, featuring:
 - Menu-driven UI for creating and practicing flashcards
 - (Optional) Textual TUI interface
 
+## Future Features
+
+- New interface using Textual
+
 ## Run It
 
 ```bash
